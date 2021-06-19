@@ -2,6 +2,10 @@
 
 I'm a Software Engineer
 
-- I'm writing code in .NET [<img src="https://i.pinimg.com/236x/e1/7d/5d/e17d5df5d6995170a4579984ae716d92.jpg" height="14px" width="14px" title="C#" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- I'm writing code in .NET [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" height="14px" width="14px" title="C#" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- I’m currently learning everything
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nmakhmutov&show_icons=true&count_private=true" alt="nmakhmutov" />
+
+### 🛠️ Languages and Tools:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
