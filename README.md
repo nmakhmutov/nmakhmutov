@@ -15,7 +15,4 @@ I'm a Software Engineer
 <code><img height="20" alt="Postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" alt="Mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nmakhmutov&show_icons=true&count_private=true" alt="nmakhmutov" />
-
 ![Metrics](https://metrics.lecoq.io/nmakhmutov?template=classic&isocalendar=1&languages=1&lines=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow)
