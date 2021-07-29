@@ -21,6 +21,9 @@ I'm a Software Engineer
 <table align="center" width="100%">
   <tr>
     <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmakhmutov">
+    </td>
+    <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmakhmutov&layout=compact">
     </td>
   </tr>
