@@ -18,7 +18,7 @@ I'm a Software Engineer
 <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/></code>
 
-<table align="center" width="100%">
+<table align="center" width="100%" border="0">
   <tr>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmakhmutov">
