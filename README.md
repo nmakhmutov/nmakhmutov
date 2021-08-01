@@ -20,7 +20,7 @@ I'm a Software Engineer
 
 <table align="center" width="100%" border="0">
  <tr>
-    <td colspan="2">
+    <td colspan="2" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=nmakhmutov&count_private=true&show_icons=true" />
     </td>
  </tr>
