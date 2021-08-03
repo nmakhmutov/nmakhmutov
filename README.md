@@ -19,17 +19,18 @@ I'm a Software Engineer
 <code><img height="20" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/></code>
 
 <table align="center" width="100%" border="0">
- <tr>
-    <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmakhmutov">
-    </td>
- </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=nmakhmutov&count_private=true&show_icons=true" />
-    </td>
-    <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmakhmutov&layout=compact">
-    </td>
-  </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmakhmutov">
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img
+                src="https://github-readme-stats.vercel.app/api?username=nmakhmutov&count_private=true&show_icons=true" />
+        </td>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmakhmutov&layout=compact">
+        </td>
+    </tr>
 </table>
