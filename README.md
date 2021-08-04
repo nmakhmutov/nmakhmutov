@@ -1,4 +1,4 @@
-### 👋 Hello! I'm Neil
+<h1 align="center">Hello 👋, I'm Neil</h1>
 
 I'm a Software Engineer
 
