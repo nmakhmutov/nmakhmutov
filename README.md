@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Neil</h1>
+<!-- <h1 align="center">Hello 👋, I'm Neil</h1>
 
 - I'm writing code in .NET
 - I’m currently learning rust and kotlin
@@ -71,4 +71,4 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmakhmutov&layout=compact">
         </td>
     </tr>
-</table>
+</table> -->
